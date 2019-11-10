@@ -1,3 +1,26 @@
+const magnetpen =
+{
+  title:"Magnetic pen",
+  startdate:"2019-07-01",
+  enddate:"2019-07-12",
+  subtitle:"A tool for handling small steel parts",
+  description:"This pen-like tool was created to ease the handling of small "+
+              "steel parts in an assembly process where operater has to pick "+
+              "small parts by means of tweezers. The main problems were the "+
+              "limited visibility of the parts and their orientation and their "+
+              "size. To tackle this problem, this tool was designed. It contains "+
+              "a steel rod, a magnet and a piece that can be moved, "+
+              "to change the distance to the magnet, this enables/disables the "+
+              "magnetic holding of the pen. On the back, a pointy tip is placed "+
+              "to spread the items before pickup. In this way it was much easier to "+
+              "grab and release the steel parts. However, the polarity of the "+
+              "magnetic field proved to make placement of parts next to each other difficult.",
+  image1:"",
+  image2:"",
+  image3:"",
+  image4:"",
+};
+
 const penholder =
 {
   title:"3D-printed pen holder",

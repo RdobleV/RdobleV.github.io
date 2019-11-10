@@ -93,6 +93,27 @@
     </table>
   </div>
 
+  <div class="tile printing design" style="max-width: 600px;" onclick="openModal('magnetpen', 0)">
+    <table>
+        <tr>
+        <td>
+          <div class="texts" style="">
+            <h3>Magnetic pen</h3>
+            <p>
+              A pen designed to handle small steel objects for assembly purposes.
+            </p>
+          </div>
+        </td>
+        <td class="timg" style=" padding: 5px;">
+          <div class="pimg" style="background-image: url('./images/magnetpen/cover.jpg');
+          background-position:center;">
+
+          </div>
+        </td>
+        </tr>
+    </table>
+  </div>
+
   <div class="tile printing" style="max-width: 600px;" onclick="openModal('penholder', 2)">
     <table>
         <tr>
@@ -826,8 +847,8 @@
   }
 
   function openRandom() {
-    var pagenames = ['penholder','powerlamp','zef','crown','cuber','manvr','unilever','iotdev','carbon','ledbar','bikephone','mbike','wakka','weather','wakeup','rack','monocle','ledmat','mecha','creee','cheeese','boxes','pasta','resink','slimofoon'];
-    var pagepics = [2,4,4,4,3,4,0,2,4,4,4,3,3,4,4,2,4,2,4,4,3,0,3,0,0];
+    var pagenames = ['magnetpen','penholder','powerlamp','zef','crown','cuber','manvr','unilever','iotdev','carbon','ledbar','bikephone','mbike','wakka','weather','wakeup','rack','monocle','ledmat','mecha','creee','cheeese','boxes','pasta','resink','slimofoon'];
+    var pagepics = [0,2,4,4,4,3,4,0,2,4,4,4,3,3,4,4,2,4,2,4,4,3,0,3,0,0];
     var randomnumber = Math.floor(Math.random()*pagenames.length);
     openModal(pagenames[randomnumber], pagepics[randomnumber]);
   }

@@ -1,0 +1,955 @@
+[
+  {
+    "id": "201101",
+    "image": "/images/photos/small/201101.jpg",
+    "highRes": "/images/photos/full/201101.jpg",
+    "category": "Landscapes",
+    "year": 2011
+  },
+  {
+    "id": "201301",
+    "image": "/images/photos/small/201301.jpg",
+    "highRes": "/images/photos/full/201301.jpg",
+    "category": "Landscapes",
+    "year": 2013
+  },
+  {
+    "id": "201302",
+    "image": "/images/photos/small/201302.jpg",
+    "highRes": "/images/photos/full/201302.jpg",
+    "category": "Landscapes",
+    "year": 2013
+  },
+  {
+    "id": "201303",
+    "image": "/images/photos/small/201303.jpg",
+    "highRes": "/images/photos/full/201303.jpg",
+    "category": "Other",
+    "year": 2013
+  },
+  {
+    "id": "201304",
+    "image": "/images/photos/small/201304.jpg",
+    "highRes": "/images/photos/full/201304.jpg",
+    "category": "Animals",
+    "year": 2013
+  },
+  {
+    "id": "201305",
+    "image": "/images/photos/small/201305.jpg",
+    "highRes": "/images/photos/full/201305.jpg",
+    "category": "Animals",
+    "year": 2013
+  },
+  {
+    "id": "201401",
+    "image": "/images/photos/small/201401.jpg",
+    "highRes": "/images/photos/full/201401.jpg",
+    "category": "Animals",
+    "year": 2014
+  },
+  {
+    "id": "201402",
+    "image": "/images/photos/small/201402.jpg",
+    "highRes": "/images/photos/full/201402.jpg",
+    "category": "Animals",
+    "year": 2014
+  },
+  {
+    "id": "201403",
+    "image": "/images/photos/small/201403.jpg",
+    "highRes": "/images/photos/full/201403.jpg",
+    "category": "Animals",
+    "year": 2014
+  },
+  {
+    "id": "201404",
+    "image": "/images/photos/small/201404.jpg",
+    "highRes": "/images/photos/full/201404.jpg",
+    "category": "Animals",
+    "year": 2014
+  },
+  {
+    "id": "201405",
+    "image": "/images/photos/small/201405.jpg",
+    "highRes": "/images/photos/full/201405.jpg",
+    "category": "Animals",
+    "year": 2014
+  },
+  {
+    "id": "201406",
+    "image": "/images/photos/small/201406.jpg",
+    "highRes": "/images/photos/full/201406.jpg",
+    "category": "Insects",
+    "year": 2014
+  },
+  {
+    "id": "201407",
+    "image": "/images/photos/small/201407.jpg",
+    "highRes": "/images/photos/full/201407.jpg",
+    "category": "Insects",
+    "year": 2014
+  },
+  {
+    "id": "201408",
+    "image": "/images/photos/small/201408.jpg",
+    "highRes": "/images/photos/full/201408.jpg",
+    "category": "Insects",
+    "year": 2014
+  },
+  {
+    "id": "201409",
+    "image": "/images/photos/small/201409.jpg",
+    "highRes": "/images/photos/full/201409.jpg",
+    "category": "Insects",
+    "year": 2014
+  },
+  {
+    "id": "201410",
+    "image": "/images/photos/small/201410.jpg",
+    "highRes": "/images/photos/full/201410.jpg",
+    "category": "Insects",
+    "year": 2014
+  },
+  {
+    "id": "201411",
+    "image": "/images/photos/small/201411.jpg",
+    "highRes": "/images/photos/full/201411.jpg",
+    "category": "Other",
+    "year": 2014
+  },
+  {
+    "id": "201412",
+    "image": "/images/photos/small/201412.jpg",
+    "highRes": "/images/photos/full/201412.jpg",
+    "category": "Insects",
+    "year": 2014
+  },
+  {
+    "id": "201413",
+    "image": "/images/photos/small/201413.jpg",
+    "highRes": "/images/photos/full/201413.jpg",
+    "category": "Other",
+    "year": 2014
+  },
+  {
+    "id": "201414",
+    "image": "/images/photos/small/201414.jpg",
+    "highRes": "/images/photos/full/201414.jpg",
+    "category": "Flowers",
+    "year": 2014
+  },
+  {
+    "id": "201415",
+    "image": "/images/photos/small/201415.jpg",
+    "highRes": "/images/photos/full/201415.jpg",
+    "category": "Flowers",
+    "year": 2014
+  },
+  {
+    "id": "201416",
+    "image": "/images/photos/small/201416.jpg",
+    "highRes": "/images/photos/full/201416.jpg",
+    "category": "Flowers",
+    "year": 2014
+  },
+  {
+    "id": "201417",
+    "image": "/images/photos/small/201417.jpg",
+    "highRes": "/images/photos/full/201417.jpg",
+    "category": "Landscapes",
+    "year": 2014
+  },
+  {
+    "id": "201501",
+    "image": "/images/photos/small/201501.jpg",
+    "highRes": "/images/photos/full/201501.jpg",
+    "category": "Landscapes",
+    "year": 2015
+  },
+  {
+    "id": "201502",
+    "image": "/images/photos/small/201502.jpg",
+    "highRes": "/images/photos/full/201502.jpg",
+    "category": "Animals",
+    "year": 2015
+  },
+  {
+    "id": "201503",
+    "image": "/images/photos/small/201503.jpg",
+    "highRes": "/images/photos/full/201503.jpg",
+    "category": "Insects",
+    "year": 2015
+  },
+  {
+    "id": "201504",
+    "image": "/images/photos/small/201504.jpg",
+    "highRes": "/images/photos/full/201504.jpg",
+    "category": "Animals",
+    "year": 2015
+  },
+  {
+    "id": "201505",
+    "image": "/images/photos/small/201505.jpg",
+    "highRes": "/images/photos/full/201505.jpg",
+    "category": "Other",
+    "year": 2015
+  },
+  {
+    "id": "201601",
+    "image": "/images/photos/small/201601.jpg",
+    "highRes": "/images/photos/full/201601.jpg",
+    "category": "Landscapes",
+    "year": 2016
+  },
+  {
+    "id": "201602",
+    "image": "/images/photos/small/201602.jpg",
+    "highRes": "/images/photos/full/201602.jpg",
+    "category": "Flowers",
+    "year": 2016
+  },
+  {
+    "id": "201603",
+    "image": "/images/photos/small/201603.jpg",
+    "highRes": "/images/photos/full/201603.jpg",
+    "category": "Other",
+    "year": 2016
+  },
+  {
+    "id": "201701",
+    "image": "/images/photos/small/201701.jpg",
+    "highRes": "/images/photos/full/201701.jpg",
+    "category": "Animals",
+    "year": 2017
+  },
+  {
+    "id": "201702",
+    "image": "/images/photos/small/201702.jpg",
+    "highRes": "/images/photos/full/201702.jpg",
+    "category": "Animals",
+    "year": 2017
+  },
+  {
+    "id": "201703",
+    "image": "/images/photos/small/201703.jpg",
+    "highRes": "/images/photos/full/201703.jpg",
+    "category": "Landscapes",
+    "year": 2017
+  },
+  {
+    "id": "201704",
+    "image": "/images/photos/small/201704.jpg",
+    "highRes": "/images/photos/full/201704.jpg",
+    "category": "Insects",
+    "year": 2017
+  },
+  {
+    "id": "201705",
+    "image": "/images/photos/small/201705.jpg",
+    "highRes": "/images/photos/full/201705.jpg",
+    "category": "Insects",
+    "year": 2017
+  },
+  {
+    "id": "201706",
+    "image": "/images/photos/small/201706.jpg",
+    "highRes": "/images/photos/full/201706.jpg",
+    "category": "Insects",
+    "year": 2017
+  },
+  {
+    "id": "201801",
+    "image": "/images/photos/small/201801.jpg",
+    "highRes": "/images/photos/full/201801.jpg",
+    "category": "Other",
+    "year": 2018
+  },
+  {
+    "id": "201802",
+    "image": "/images/photos/small/201802.jpg",
+    "highRes": "/images/photos/full/201802.jpg",
+    "category": "Other",
+    "year": 2018
+  },
+  {
+    "id": "201803",
+    "image": "/images/photos/small/201803.jpg",
+    "highRes": "/images/photos/full/201803.jpg",
+    "category": "Other",
+    "year": 2018
+  },
+  {
+    "id": "201804",
+    "image": "/images/photos/small/201804.jpg",
+    "highRes": "/images/photos/full/201804.jpg",
+    "category": "Landscapes",
+    "year": 2018
+  },
+  {
+    "id": "201805",
+    "image": "/images/photos/small/201805.jpg",
+    "highRes": "/images/photos/full/201805.jpg",
+    "category": "Landscapes",
+    "year": 2018
+  },
+  {
+    "id": "201806",
+    "image": "/images/photos/small/201806.jpg",
+    "highRes": "/images/photos/full/201806.jpg",
+    "category": "Landscapes",
+    "year": 2018
+  },
+  {
+    "id": "201807",
+    "image": "/images/photos/small/201807.jpg",
+    "highRes": "/images/photos/full/201807.jpg",
+    "category": "Flowers",
+    "year": 2018
+  },
+  {
+    "id": "201808",
+    "image": "/images/photos/small/201808.jpg",
+    "highRes": "/images/photos/full/201808.jpg",
+    "category": "Flowers",
+    "year": 2018
+  },
+  {
+    "id": "201809",
+    "image": "/images/photos/small/201809.jpg",
+    "highRes": "/images/photos/full/201809.jpg",
+    "category": "Flowers",
+    "year": 2018
+  },
+  {
+    "id": "201810",
+    "image": "/images/photos/small/201810.jpg",
+    "highRes": "/images/photos/full/201810.jpg",
+    "category": "Animals",
+    "year": 2018
+  },
+  {
+    "id": "201811",
+    "image": "/images/photos/small/201811.jpg",
+    "highRes": "/images/photos/full/201811.jpg",
+    "category": "Other",
+    "year": 2018
+  },
+  {
+    "id": "201901",
+    "image": "/images/photos/small/201901.jpg",
+    "highRes": "/images/photos/full/201901.jpg",
+    "category": "Animals",
+    "year": 2019
+  },
+  {
+    "id": "201902",
+    "image": "/images/photos/small/201902.jpg",
+    "highRes": "/images/photos/full/201902.jpg",
+    "category": "Insects",
+    "year": 2019
+  },
+  {
+    "id": "201903",
+    "image": "/images/photos/small/201903.jpg",
+    "highRes": "/images/photos/full/201903.jpg",
+    "category": "Landscapes",
+    "year": 2019
+  },
+  {
+    "id": "201904",
+    "image": "/images/photos/small/201904.jpg",
+    "highRes": "/images/photos/full/201904.jpg",
+    "category": "Insects",
+    "year": 2019
+  },
+  {
+    "id": "201905",
+    "image": "/images/photos/small/201905.jpg",
+    "highRes": "/images/photos/full/201905.jpg",
+    "category": "Insects",
+    "year": 2019
+  },
+  {
+    "id": "201906",
+    "image": "/images/photos/small/201906.jpg",
+    "highRes": "/images/photos/full/201906.jpg",
+    "category": "Insects",
+    "year": 2019
+  },
+  {
+    "id": "201907",
+    "image": "/images/photos/small/201907.jpg",
+    "highRes": "/images/photos/full/201907.jpg",
+    "category": "Insects",
+    "year": 2019
+  },
+  {
+    "id": "201908",
+    "image": "/images/photos/small/201908.jpg",
+    "highRes": "/images/photos/full/201908.jpg",
+    "category": "Landscapes",
+    "year": 2019
+  },
+  {
+    "id": "202001",
+    "image": "/images/photos/small/202001.jpg",
+    "highRes": "/images/photos/full/202001.jpg",
+    "category": "Other",
+    "year": 2020
+  },
+  {
+    "id": "202002",
+    "image": "/images/photos/small/202002.jpg",
+    "highRes": "/images/photos/full/202002.jpg",
+    "category": "Other",
+    "year": 2020
+  },
+  {
+    "id": "202003",
+    "image": "/images/photos/small/202003.jpg",
+    "highRes": "/images/photos/full/202003.jpg",
+    "category": "Other",
+    "year": 2020
+  },
+  {
+    "id": "202004",
+    "image": "/images/photos/small/202004.jpg",
+    "highRes": "/images/photos/full/202004.jpg",
+    "category": "Flowers",
+    "year": 2020
+  },
+  {
+    "id": "202005",
+    "image": "/images/photos/small/202005.jpg",
+    "highRes": "/images/photos/full/202005.jpg",
+    "category": "Flowers",
+    "year": 2020
+  },
+  {
+    "id": "202006",
+    "image": "/images/photos/small/202006.jpg",
+    "highRes": "/images/photos/full/202006.jpg",
+    "category": "Other",
+    "year": 2020
+  },
+  {
+    "id": "202007",
+    "image": "/images/photos/small/202007.jpg",
+    "highRes": "/images/photos/full/202007.jpg",
+    "category": "Flowers",
+    "year": 2020
+  },
+  {
+    "id": "202008",
+    "image": "/images/photos/small/202008.jpg",
+    "highRes": "/images/photos/full/202008.png",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202009",
+    "image": "/images/photos/small/202009.jpg",
+    "highRes": "/images/photos/full/202009.png",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202010",
+    "image": "/images/photos/small/202010.jpg",
+    "highRes": "/images/photos/full/202010.jpg",
+    "category": "Flowers",
+    "year": 2020
+  },
+  {
+    "id": "202011",
+    "image": "/images/photos/small/202011.jpg",
+    "highRes": "/images/photos/full/202011.jpg",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202012",
+    "image": "/images/photos/small/202012.jpg",
+    "highRes": "/images/photos/full/202012.jpg",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202013",
+    "image": "/images/photos/small/202013.jpg",
+    "highRes": "/images/photos/full/202013.jpg",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202014",
+    "image": "/images/photos/small/202014.jpg",
+    "highRes": "/images/photos/full/202014.jpg",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202015",
+    "image": "/images/photos/small/202015.jpg",
+    "highRes": "/images/photos/full/202015.jpg",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202016",
+    "image": "/images/photos/small/202016.jpg",
+    "highRes": "/images/photos/full/202016.jpg",
+    "category": "Landscapes",
+    "year": 2020
+  },
+  {
+    "id": "202017",
+    "image": "/images/photos/small/202017.jpg",
+    "highRes": "/images/photos/full/202017.png",
+    "category": "Landscapes",
+    "year": 2020
+  },
+  {
+    "id": "202018",
+    "image": "/images/photos/small/202018.jpg",
+    "highRes": "/images/photos/full/202018.jpg",
+    "category": "Other",
+    "year": 2020
+  },
+  {
+    "id": "202019",
+    "image": "/images/photos/small/202019.jpg",
+    "highRes": "/images/photos/full/202019.jpg",
+    "category": "Animals",
+    "year": 2020
+  },
+  {
+    "id": "202020",
+    "image": "/images/photos/small/202020.jpg",
+    "highRes": "/images/photos/full/202020.jpg",
+    "category": "Animals",
+    "year": 2020
+  },
+  {
+    "id": "202021",
+    "image": "/images/photos/small/202021.jpg",
+    "highRes": "/images/photos/full/202021.jpg",
+    "category": "Animals",
+    "year": 2020
+  },
+  {
+    "id": "202022",
+    "image": "/images/photos/small/202022.jpg",
+    "highRes": "/images/photos/full/202022.jpg",
+    "category": "Animals",
+    "year": 2020
+  },
+  {
+    "id": "202023",
+    "image": "/images/photos/small/202023.jpg",
+    "highRes": "/images/photos/full/202023.jpg",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202024",
+    "image": "/images/photos/small/202024.jpg",
+    "highRes": "/images/photos/full/202024.jpg",
+    "category": "Insects",
+    "year": 2020
+  },
+  {
+    "id": "202025",
+    "image": "/images/photos/small/202025.jpg",
+    "highRes": "/images/photos/full/202025.jpg",
+    "category": "Animals",
+    "year": 2020
+  },
+  {
+    "id": "202101",
+    "image": "/images/photos/small/202101.jpg",
+    "highRes": "/images/photos/full/202101.png",
+    "category": "Flowers",
+    "year": 2021
+  },
+  {
+    "id": "202102",
+    "image": "/images/photos/small/202102.jpg",
+    "highRes": "/images/photos/full/202102.png",
+    "category": "Flowers",
+    "year": 2021
+  },
+  {
+    "id": "202103",
+    "image": "/images/photos/small/202103.jpg",
+    "highRes": "/images/photos/full/202103.png",
+    "category": "Flowers",
+    "year": 2021
+  },
+  {
+    "id": "202104",
+    "image": "/images/photos/small/202104.jpg",
+    "highRes": "/images/photos/full/202104.png",
+    "category": "Flowers",
+    "year": 2021
+  },
+  {
+    "id": "202105",
+    "image": "/images/photos/small/202105.jpg",
+    "highRes": "/images/photos/full/202105.png",
+    "category": "Landscapes",
+    "year": 2021
+  },
+  {
+    "id": "202106",
+    "image": "/images/photos/small/202106.jpg",
+    "highRes": "/images/photos/full/202106.png",
+    "category": "Landscapes",
+    "year": 2021
+  },
+    {
+    "id": "202107",
+    "image": "/images/photos/small/202107.jpg",
+    "highRes": "/images/photos/full/202107.jpg",
+    "category": "Other",
+    "year": 2021
+  },
+  {
+    "id": "202108",
+    "image": "/images/photos/small/202108.jpg",
+    "highRes": "/images/photos/full/202108.jpg",
+    "category": "Other",
+    "year": 2021
+  },
+  {
+    "id": "202109",
+    "image": "/images/photos/small/202109.jpg",
+    "highRes": "/images/photos/full/202109.jpg",
+    "category": "Other",
+    "year": 2021
+  },
+  {
+    "id": "202110",
+    "image": "/images/photos/small/202110.jpg",
+    "highRes": "/images/photos/full/202110.jpg",
+    "category": "Other",
+    "year": 2021
+  },
+  {
+    "id": "202111",
+    "image": "/images/photos/small/202111.jpg",
+    "highRes": "/images/photos/full/202111.jpg",
+    "category": "Other",
+    "year": 2021
+  },
+  {
+    "id": "202112",
+    "image": "/images/photos/small/202112.jpg",
+    "highRes": "/images/photos/full/202112.jpg",
+    "category": "Landscapes",
+    "year": 2021
+  },
+  {
+    "id": "202113",
+    "image": "/images/photos/small/202113.jpg",
+    "highRes": "/images/photos/full/202113.jpg",
+    "category": "Flowers",
+    "year": 2021
+  },
+  {
+    "id": "202201",
+    "image": "/images/photos/small/202201.jpg",
+    "highRes": "/images/photos/full/202201.jpg",
+    "category": "Flowers",
+    "year": 2022
+  },
+  {
+    "id": "202202",
+    "image": "/images/photos/small/202202.jpg",
+    "highRes": "/images/photos/full/202202.jpg",
+    "category": "Animals",
+    "year": 2022
+  },
+  {
+    "id": "202203",
+    "image": "/images/photos/small/202203.jpg",
+    "highRes": "/images/photos/full/202203.jpg",
+    "category": "Flowers",
+    "year": 2022
+  },
+  {
+    "id": "202204",
+    "image": "/images/photos/small/202204.jpg",
+    "highRes": "/images/photos/full/202204.jpg",
+    "category": "Flowers",
+    "year": 2022
+  },
+  {
+    "id": "202205",
+    "image": "/images/photos/small/202205.jpg",
+    "highRes": "/images/photos/full/202205.jpg",
+    "category": "Flowers",
+    "year": 2022
+  },
+    {
+    "id": "202301",
+    "image": "/images/photos/small/202301.jpg",
+    "highRes": "/images/photos/full/202301.jpg",
+    "category": "Other",
+    "year": 2023
+  },
+  {
+    "id": "202302",
+    "image": "/images/photos/small/202302.jpg",
+    "highRes": "/images/photos/full/202302.jpg",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202303",
+    "image": "/images/photos/small/202303.jpg",
+    "highRes": "/images/photos/full/202303.jpg",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202304",
+    "image": "/images/photos/small/202304.jpg",
+    "highRes": "/images/photos/full/202304.jpg",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202305",
+    "image": "/images/photos/small/202305.jpg",
+    "highRes": "/images/photos/full/202305.jpg",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202306",
+    "image": "/images/photos/small/202306.jpg",
+    "highRes": "/images/photos/full/202306.jpg",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202307",
+    "image": "/images/photos/small/202307.jpg",
+    "highRes": "/images/photos/full/202307.jpg",
+    "category": "Insects",
+    "year": 2023
+  },
+  {
+    "id": "202308",
+    "image": "/images/photos/small/202308.jpg",
+    "highRes": "/images/photos/full/202308.jpg",
+    "category": "Insects",
+    "year": 2023
+  },
+  {
+    "id": "202309",
+    "image": "/images/photos/small/202309.jpg",
+    "highRes": "/images/photos/full/202309.jpg",
+    "category": "Insects",
+    "year": 2023
+  },
+  {
+    "id": "202310",
+    "image": "/images/photos/small/202310.jpg",
+    "highRes": "/images/photos/full/202310.jpg",
+    "category": "Insects",
+    "year": 2023
+  },
+  {
+    "id": "202311",
+    "image": "/images/photos/small/202311.jpg",
+    "highRes": "/images/photos/full/202311.jpg",
+    "category": "Landscapes",
+    "year": 2023
+  },
+  {
+    "id": "202312",
+    "image": "/images/photos/small/202312.jpg",
+    "highRes": "/images/photos/full/202312.jpg",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202313",
+    "image": "/images/photos/small/202313.jpg",
+    "highRes": "/images/photos/full/202313.jpg",
+    "category": "Landscapes",
+    "year": 2023
+  },
+  {
+    "id": "202314",
+    "image": "/images/photos/small/202314.jpg",
+    "highRes": "/images/photos/full/202314.jpg",
+    "category": "Insects",
+    "year": 2023
+  },
+  {
+    "id": "202315",
+    "image": "/images/photos/small/202315.jpg",
+    "highRes": "/images/photos/full/202315.jpg",
+    "category": "Landscapes",
+    "year": 2023
+  },
+  {
+    "id": "202316",
+    "image": "/images/photos/small/202316.jpg",
+    "highRes": "/images/photos/full/202316.png",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202317",
+    "image": "/images/photos/small/202317.jpg",
+    "highRes": "/images/photos/full/202317.jpg",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202318",
+    "image": "/images/photos/small/202318.jpg",
+    "highRes": "/images/photos/full/202318.jpg",
+    "category": "Insects",
+    "year": 2023
+  },
+  {
+    "id": "202319",
+    "image": "/images/photos/small/202319.jpg",
+    "highRes": "/images/photos/full/202319.jpg",
+    "category": "Flowers",
+    "year": 2023
+  },
+  {
+    "id": "202401",
+    "image": "/images/photos/small/202401.jpg",
+    "highRes": "/images/photos/full/202401.jpg",
+    "category": "Flowers",
+    "year": 2024
+  },
+  {
+    "id": "202402",
+    "image": "/images/photos/small/202402.jpg",
+    "highRes": "/images/photos/full/202402.jpg",
+    "category": "Other",
+    "year": 2024
+  },
+  {
+    "id": "202403",
+    "image": "/images/photos/small/202403.jpg",
+    "highRes": "/images/photos/full/202403.jpg",
+    "category": "Landscapes",
+    "year": 2024
+  },
+  {
+    "id": "202404",
+    "image": "/images/photos/small/202404.jpg",
+    "highRes": "/images/photos/full/202404.jpg",
+    "category": "Flowers",
+    "year": 2024
+  },
+  {
+    "id": "202405",
+    "image": "/images/photos/small/202405.jpg",
+    "highRes": "/images/photos/full/202405.jpg",
+    "category": "Flowers",
+    "year": 2024
+  },
+  {
+    "id": "202406",
+    "image": "/images/photos/small/202406.jpg",
+    "highRes": "/images/photos/full/202406.jpg",
+    "category": "Landscapes",
+    "year": 2024
+  },
+  {
+    "id": "202407",
+    "image": "/images/photos/small/202407.jpg",
+    "highRes": "/images/photos/full/202407.jpg",
+    "category": "Landscapes",
+    "year": 2024
+  },
+  {
+    "id": "202408",
+    "image": "/images/photos/small/202408.jpg",
+    "highRes": "/images/photos/full/202408.jpg",
+    "category": "Landscapes",
+    "year": 2024
+  },
+  {
+    "id": "202409",
+    "image": "/images/photos/small/202409.jpg",
+    "highRes": "/images/photos/full/202409.jpg",
+    "category": "Insects",
+    "year": 2024
+  },
+  {
+    "id": "202410",
+    "image": "/images/photos/small/202410.jpg",
+    "highRes": "/images/photos/full/202410.jpg",
+    "category": "Insects",
+    "year": 2024
+  },
+  {
+    "id": "202411",
+    "image": "/images/photos/small/202411.jpg",
+    "highRes": "/images/photos/full/202411.jpg",
+    "category": "Other",
+    "year": 2024
+  },
+  {
+    "id": "202412",
+    "image": "/images/photos/small/202412.jpg",
+    "highRes": "/images/photos/full/202412.jpg",
+    "category": "Other",
+    "year": 2024
+  },
+  {
+    "id": "202501",
+    "image": "/images/photos/small/202501.jpg",
+    "highRes": "/images/photos/full/202501.jpg",
+    "category": "Flowers",
+    "year": 2025
+  },
+  {
+    "id": "202502",
+    "image": "/images/photos/small/202502.jpg",
+    "highRes": "/images/photos/full/202502.jpg",
+    "category": "Flowers",
+    "year": 2025
+  },
+  {
+    "id": "202503",
+    "image": "/images/photos/small/202503.jpg",
+    "highRes": "/images/photos/full/202503.jpg",
+    "category": "Flowers",
+    "year": 2025
+  },
+  {
+    "id": "202504",
+    "image": "/images/photos/small/202504.jpg",
+    "highRes": "/images/photos/full/202504.jpg",
+    "category": "Flowers",
+    "year": 2025
+  },
+  {
+    "id": "202505",
+    "image": "/images/photos/small/202505.jpg",
+    "highRes": "/images/photos/full/202505.jpg",
+    "category": "Flowers",
+    "year": 2025
+  },
+  {
+    "id": "202506",
+    "image": "/images/photos/small/202506.jpg",
+    "highRes": "/images/photos/full/202506.jpg",
+    "category": "Insects",
+    "year": 2025
+  }
+
+]

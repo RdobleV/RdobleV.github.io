@@ -1,0 +1,274 @@
+[
+  {
+    "id": 21,
+    "title": "V700 magnetic robot",
+    "description": "A design based on the Vertidrive M7, but greatly improved implementation. It has an up to 20x stiffer frame, adjustable magnets, and stronger motors. It handles tougher jobs with far better reliability, making demanding surface prep safer and more efficient.",
+    "images": [
+      "/images/V700/Cover.png",
+      "/images/V700/img1.png",
+      "/images/V700/img2.png",
+      "/images/V700/img3.png"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 20,
+    "title": "Onshape API integration",
+    "description": "A set of custom tools with the Onshape API for document maintenance (checking properties such as mass and materials) and to compile lists of drawings to be combined into a parts catalogs.",
+    "images": [
+      "/images/Onshapi/Cover.png",
+      "/images/Onshapi/img3.png" 
+    ],
+    "category": ["Code"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "title": "4x4 keyboard",
+    "description": "A custom-built 4x4 keypad with a self-designed PCB and frame. Runs QMK firmware on an Arduino Pro Micro, allowing every key to be assigned to shortcuts, macros, or special functions. The back of the PCB features a Voronoi pattern.",
+    "images": [
+      "/images/keypad/cover.jpg",
+      "/images/keypad/cover.jpg",
+      "/images/keypad/cover.jpg"
+    ],
+    "category": ["3D printing", "Electronics","Code"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 18,
+    "title": "Transport trolley",
+    "description": "Transport trolley to accompany a VertiDrive robot. Keeps the control box off the ground for easy access, holds the umbilical power cable on a reel placed on the back, includes a storage box for the remote control and accessories. Easy to move around in the field.",
+    "images": [
+      "/images/trolley/cover.jpg",
+      "/images/trolley/cover.jpg",
+      "/images/trolley/cover.jpg"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 17,
+    "title": "Worx vacuum attachment",
+    "description": "A custom 3D-printed accessory for a WORX multi-tool that attaches a vacuum cleaner hose to the oscillating saw, removing dust directly at the source for a cleaner workspace.",
+    "images": [
+      "/images/worx/cover.jpg",
+      "/images/worx/img1.jpg",
+      "/images/worx/img2.jpg"
+    ],
+    "category": ["3D printing"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 16,
+    "title": "Printed headset",
+    "description": "A rebuilt Logitech headset with custom 3D-printed shells to house the original speakers and electronics after the headband connection broke. New hinges machined from magnesium, and the design now supports removable earpads.",
+    "images": [
+      "/images/logi/cover.JPG",
+      "/images/logi/img1.JPG",
+      "/images/logi/img2.JPG"
+    ],
+    "category": ["Design", "3D printing"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 15,
+    "title": "Tool holders",
+    "description": "A few 3D-printed frames to hold various tools, keeping the toolbox tidy. TPU is especially convenient to protect (from) sharp chisels.",
+    "images": [
+      "/images/tools/cover.jpg",
+      "/images/tools/img1.jpg",
+      "/images/tools/img2.jpg"
+    ],
+    "category": ["3D printing"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "Aquarium cover mesh",
+    "description": "Custom 3D-printed mesh cover to prevent fish from jumping out. A hexagonal pattern for aesthetics (which can also hold small mangroves), with a central opening for an aquarium light. Easy to install by sliding sections over the glass.",
+    "images": [
+      "/images/aqua/cover.jpeg",
+      "/images/aqua/img2.jpeg",
+      "/images/aqua/img3.jpeg"
+    ],
+    "category": ["Design","3D printing"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "Magnet simulation",
+    "description": "Project using FEMM 4.2 with Lua scripts to evaluate and optimize magnet designs. By iterating over variations in geometry, materials and magnetic orientation, significant strength improvements were achieved within the same build volume.",
+    "images": [
+      "/images/femm/cover.jpg",
+      "/images/femm/img1.jpg"
+    ],
+    "category": ["Design","Code"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 12,
+    "title": "Magnetic pen",
+    "description": "A tool designed to improve handling of small steel needles in assembly, featuring an adjustable magnet and a pointy end for spreading parts. This made part pickup and release easier, though the magnetic polarity made placing parts close together challenging.",
+    "images": [
+      "/images/magpen/cover.jpg",
+      "/images/magpen/img1.jpg"
+    ],
+    "category": ["Design", "3D printing"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "3D printed pen holder",
+    "description": "Pen holder printed with a 1.0 mm nozzle in vase mode, featuring a single 1 mm wall and 0.7 mm layers. The larger nozzle enabled faster printing and strong walls, though print speed was slightly reduced to match the extrusion rate.",
+    "images": [
+      "/images/penbrain/cover.jpg",
+      "/images/penbrain/img1.jpg",
+      "/images/penbrain/img2.jpg"
+    ],
+    "category": ["Design","3D printing"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "Powerful lamp",
+    "description": "Lamp with a calm design and bright light, activated by twisting a ring. A 20 W LED projects light onto walls and ceiling, powered through an adapter and boost converter, with cooling by a small fan. Tested top pieces led to a dual-part solution for optimal reflection. All plastic parts were 3D printed at high speed for reduced build time.",
+    "images": [
+      "/images/lamp/cover.jpg",
+      "/images/lamp/img1.jpg"
+    ],
+    "category": ["Design", "3D printing"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Direct air capture",
+    "description": "Graduation project designing the air capture unit for a methanol plant. Captures CO₂ and water using chemical compounds, then releases them via vacuum and heating. The design considered manufacturability, material properties, cost, and environmental impact for scalable methanol production.",
+    "images": [
+      "/images/zef/cover.png",
+      "/images/zef/img1.jpg",
+      "/images/zef/img2.png"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Smart wall socket",
+    "description": "Design of a smart wall socket with modular face plates for Crownstone with bluetooth mesh network to automate household devices based on user behavior. The sockets are easy to install, non-intrusive, and provide interactive feedback, balancing energy savings with a good user experience.",
+    "images": [
+      "/images/crown/cover.jpg",
+      "/images/crown/img1.jpg",
+      "/images/crown/mod1.jpg"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Game progess cube",
+    "description": "Puzzle-based tracker designed to balance gaming and healthy breaks. Players build cubes with color-coded pieces representing wins, losses, and teammates, the finished cube serves as a reminder of the last play. Wooden, plastic, and metal pieces contain magnets to attach to a steel base.",
+    "images": [
+      "/images/cuber/mod1.jpg",
+      "/images/cuber/mod2.jpg",
+      "/images/cuber/mod3.jpg"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "VR controller",
+    "description": "Modular, customizable controller for Manus VR, adaptable to weapons, vehicles, or other game tools. Features multiple modules, buttons, and options like simulated recoil to enhance immersion and intuitive gameplay.",
+    "images": [
+      "/images/manvr/cover.png",
+      "/images/manvr/img1.png",
+      "/images/manvr/img2.png"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "New instant soup",
+    "description": "Assignment focused on reviving a declining brand through a new product proposal. For Cup-a-Soup, an instant soup concept was developed with familiar flavors but redesigned packaging, branding, and user experience to create stronger consumer connection.",
+    "images": [
+      "/images/unil/cover.png",
+      "/images/unil/img1.png",
+      "/images/unil/img2.png"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Light safety seat",
+    "description": "Baby carrier redesigned in carbon fiber composites, offering the same safety at half the weight of plastic versions. Produced with resin transfer molding, the seat weighs just over 1 kg and includes a ball-ended handle for more convenient carrying.",
+    "images": [
+      "/images/carbon/cover.png",
+      "/images/carbon/img1.png",
+      "/images/carbon/img2.png"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Micro bike",
+    "description": "Concept bike designed with organic shapes and multiple materials, printed on a PolyJet system. Rigid frame and wheels combine with semi-rigid tires and a flexible drive belt, all produced in one print. Support material was dissolved in a sodium hydroxide bath after printing.",
+    "images": [
+      "/images/mbike/cover.jpg",
+      "/images/mbike/img1.jpg",
+      "/images/mbike/img2.jpg",
+      "/images/mbike/img3.jpg"
+    ],
+    "category": ["Design","3D printing"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "title": "Sustainable solar light",
+    "description": "Redesigned WakaWaka light for durability and circularity. Features an aluminum body, rubber seals, waterproofing, and a large dial for brightness control. Solar panel and electronics are easily removable for repair. Materials and packaging were chosen for recyclability and re-use.",
+    "images": [
+      "/images/wakka/cover.png",
+      "/images/wakka/img1.png",
+      "/images/wakka/img2.png",
+      "/images/wakka/img3.png"
+    ],
+    "category": ["Design"],
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "id": 1,
+    "title": "Balancing robot",
+    "description": "BB-8 inspired robotic ball built with Arduino, accelerometer, motors, and Zigbee control. Designed in SolidWorks and custom-machined, it balances and drives via numpad input. Limited battery life but fully functional.",
+    "images": [
+      "/images/mecha/main.jpg",
+      "/images/mecha/img1.jpg",
+      "/images/mecha/img2.jpg"
+    ],
+    "category": ["Design","Code"],
+    "year": "2024",
+    "featured": false
+  }
+]
